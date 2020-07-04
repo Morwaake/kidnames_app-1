@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811943688220",
+    "firebase_url": "https://start-up-names.firebaseio.com",
+    "project_id": "start-up-names",
+    "storage_bucket": "start-up-names.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811943688220:android:6171d914c83505ba2947d9",
+        "android_client_info": {
+          "package_name": "bw.ub.cs.kidnames_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811943688220-brnc2iln3j4oijmsmnmaldk3bspq7qkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bw.ub.cs.kidnames_app",
+            "certificate_hash": "cf1ff90d5a2859194f8af9c56dc9ddfdf62486f3"
+          }
+        },
+        {
+          "client_id": "811943688220-o66a66rm365q784kgbud4o80lbvthu8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UBKmNXYeyvN0bW-sLM5hwpntRl4yBnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811943688220-o66a66rm365q784kgbud4o80lbvthu8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
